@@ -1,0 +1,97 @@
+#logo{
+    width: 100px;
+    height: 60px;
+
+}
+#linkverde{
+    color: #17BF0F;
+}
+
+.nav-link{
+    color: black;
+}
+
+#activado{
+    color: white;
+}
+
+#logo{
+    color: white;
+}
+
+.carousel-caption{
+    text-align: right;
+}
+
+#oradores{
+    text-align: center;
+}
+
+.card img{
+    width: 250px;
+    height: 280px;
+}
+.card-body{
+    text-align: left;
+
+}
+
+.card-text{
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+
+#pie{
+    text-decoration: rgb(226, 226, 226);
+    font-size: 1rem;
+}
+#piearea{
+    text-align: left;
+
+}
+h3{
+    text-align: center;
+}
+
+#honolulu{
+    width: 110%;
+}
+#Formulario{
+    text-align: center;
+}
+
+#calPrecio{
+    background-color: rgb(75, 203, 241);
+    text-decoration: blue;
+    padding: 10px;
+    border-radius: 5px;
+}
+#boton{
+    width: 548px;
+}
+
+footer{
+    background-color:rgb(4, 48, 61)
+}
+footer .nav-link{
+    color: white;
+}
+
+#porcentaje{
+    font-weight: bold;
+}
+/*alertas*/
+.error {
+    background-color: rgb(185, 0, 0);
+    text-align: center;
+    padding: 1rem;
+    color: var(--blanco);
+    text-transform: uppercase;
+}
+.correcto {
+    background-color: rgb(74, 185, 0);
+    text-align: center;
+    padding: 1rem;
+    color: var(--blanco);
+    text-transform: uppercase;
+}
